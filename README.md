@@ -1,6 +1,6 @@
 # MUN Quant Society website
 
-A plain HTML, CSS and JavaScript site. No build step, no installs, no framework: what is in this folder is what gets published. It is set up for **GitHub Pages**, which hosts it for free.
+A plain HTML, CSS and JavaScript site
 
 ```
 index.html        Home
